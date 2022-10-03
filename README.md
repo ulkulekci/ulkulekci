@@ -3,7 +3,6 @@
 
 
 - 🔭 I’m currently working on Java Spring 
-- 🌱 I’m currently learning Data Science
 - 📫 How to reach me: 
 **ulkusulu07@gmail.com** 
 
